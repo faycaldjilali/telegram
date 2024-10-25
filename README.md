@@ -98,4 +98,5 @@ Start a conversation and send a message.
 The bot will respond based on the AI model or logic you have set in the app.py file.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+# to see if its work
 https://api.telegram.org/bot|telegram bot apikey |url=|ngrok app url |
